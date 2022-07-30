@@ -22,7 +22,7 @@ Default is dark mode only.
 
 <img src = "images/darkMode.jpg" width = "700" height = "500">
 
--Light
+- Light
 
 <img src = "images/lightMode.jpg" width = "700" height = "500">
 
